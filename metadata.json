@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Group Holdings Enterprise",
+  "description": "Enterprise multi-disciplinary syndicate: Cinema-grade commercial production & UGC ads, accredited ISO compliance & inspection SaaS, and bespoke Belgian corporate gifting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
